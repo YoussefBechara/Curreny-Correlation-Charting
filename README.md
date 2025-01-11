@@ -3,6 +3,9 @@
 ## Description
 A Python-based tool for analyzing and visualizing currency pair correlations in the forex market. This project helps traders understand the relationships between different currency pairs through data analysis and interactive charts.
 
+![Example output](https://github.com/YoussefBechara/Curreny-Correlation-Charting/blob/main/example.png?raw=true)
+
+
 ## Features
 - Calculates correlation coefficients between currency pairs
 - Generates correlation matrices
